@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="./assets/logo.png" width="180" alt="is-stupid.lol logo">
+  <img src="../assets/logo.png" width="180" alt="is-stupid.lol logo">
 
   # is-stupid.lol
 
