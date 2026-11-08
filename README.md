@@ -14,7 +14,7 @@
   <p>
     <a href="https://is-stupid.lol">Website</a> ·
     <a href="https://forums.is-stupid.lol">Forums</a> ·
-    <a href="https://discord.gg/VDW3H7SXyZ">Community</a>
+    <a href="https://discord.gg/rqEbtWDBs">Support</a>
   </p>
 </div>
 
